@@ -1,4 +1,4 @@
-# Hi there, I'm I'm Sarah! 👋
+# Hello, I'm Sarah!
 
 <img width="791" height="223" alt="image" src="https://github.com/user-attachments/assets/06349d12-e64e-447b-b1db-3a98cbfc321d" />
 
