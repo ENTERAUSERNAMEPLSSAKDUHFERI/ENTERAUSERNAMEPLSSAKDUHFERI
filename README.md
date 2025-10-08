@@ -10,7 +10,7 @@ I'm passionate about **Cybersecurity**. I love tackling complex problems, learni
 - 🔭 Working on: **[My Phishing Link Tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)**
 - 🌍 Languages: **[C++ and Java]**
 - 📫 Find me on: **[LinkedIn](https://www.linkedin.com/in/sarah-modi-a1773b357/)**
-- ⚡ Fun fact: **[I was home chooled from 10th-12th grade, and now my university is online as well]**
+- ⚡ Fun fact: **[I was home schooled from 10th-12th grade, and now my university is online as well]**
 
 ## My Skills 🧠
 
