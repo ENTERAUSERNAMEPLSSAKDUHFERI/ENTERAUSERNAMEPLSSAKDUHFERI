@@ -1,41 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sarah Modi</h1>
-<h3 align="center">Trying to make sense of things</h3>
+# Hi there, I'm I'm Sarah! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enterausernameplssakduhferi&label=Profile%20views&color=0e75b6&style=flat" alt="enterausernameplssakduhferi" /> </p>
+<img width="791" height="223" alt="image" src="https://github.com/user-attachments/assets/06349d12-e64e-447b-b1db-3a98cbfc321d" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enterausernameplssakduhferi" alt="enterausernameplssakduhferi" /></a> </p>
 
-- 🔭I’m currently working on [Making my imagines tangible](https://math-error-log.vercel.app/)
+## About Me 🚀
 
-- 🌱My ongoing certifications **Google Cybersecurity Professional, Python Crash Course**
+I'm a passionate **Cybersecurity**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 👶I built this when I was 16 (my first project)) [Phishing link tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)
+- 🌱 Currently learning: **Endpoint Security, Python, Network Security, Operating Systems, Penetration testing, Frameworks, and a lot more**
+- 🔭 Working on: **[My Phishing Link Tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)**
+- 🌍 Languages: **[C++ and Java]**
+- 📫 Find me on: **[LinkedIn](https://www.linkedin.com/in/sarah-modi-a1773b357/)**
+- ⚡ Fun fact: **[I was home chooled from 10th-12th grade, and now my university is online as well]**
 
-- 🍁Ro'eh - My blog [Ro'eh is my dream cybersecurity company, I'm building it step-by-step](https://guardedbyroeh.blogspot.com/)
+## My Skills 🧠
 
-- 👨‍💻All of my projects are available at [Under constructions](Under constructions)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- 📝I write articles on [https://guardedbyroeh.blogspot.com/](https://guardedbyroeh.blogspot.com/)
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-- 🌼Achieved certificates **Cybersecurity foundations, Gen AI and more on my LinkedIn**
+## Featured Projects 💻
 
-- 📫Find me on LinkedIn **https://www.linkedin.com/in/sarah-modi-a1773b357/recent-activity/all/**
+### [Project 1 Title](project_1_link)
 
-- 📄Know about my experiences [Under construction :)](Under construction :))
+![Project 1 Screenshot](project_1_screenshot_url)
 
-- ⚡Fun fact **I was home-schooled from 10th - 12th and now my Uni is online as well :)**
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarah modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah modi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sarah modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarah modi" height="30" width="40" /></a>
-</p>
+### [Project 2 Title](project_2_link)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Project 2 Screenshot](project_2_screenshot_url)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enterausernameplssakduhferi&show_icons=true&locale=en&layout=compact" alt="enterausernameplssakduhferi" /></p>
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enterausernameplssakduhferi&show_icons=true&locale=en" alt="enterausernameplssakduhferi" /></p>
+## Get in Touch 📬
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enterausernameplssakduhferi&" alt="enterausernameplssakduhferi" /></p>
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Twitter]**(your_twitter_profile_link)
+
+
+
