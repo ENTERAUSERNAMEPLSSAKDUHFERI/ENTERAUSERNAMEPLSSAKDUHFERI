@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Cybersecurity**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm passionate about **Cybersecurity**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Endpoint Security, Python, Network Security, Operating Systems, Penetration testing, Frameworks, and a lot more**
 - 🔭 Working on: **[My Phishing Link Tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)**
