@@ -1,6 +1,7 @@
 # Hello, I'm Sarah!
 
-[Banner](https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/SarahsPortfolio.github.io/blob/main/Screenshot%202025-10-09%20194420.png?raw=true)
+https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/SarahsPortfolio.github.io/blob/main/Screenshot%202025-10-09%20194420.png?raw=true
+
 
 ## About Me 
 
