@@ -1,6 +1,6 @@
 # Hello, I'm Sarah!
 
-[Banner](https://video.zig.ht/v/ikv1egw17alpa3ak3qch)
+[Banner](https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/SarahsPortfolio.github.io/blob/main/Screenshot%202025-10-09%20194420.png?raw=true)
 
 ## About Me 
 
