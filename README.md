@@ -1,6 +1,6 @@
 # Hello, I'm Sarah!
 
-https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/SarahsPortfolio.github.io/blob/main/Screenshot%202025-10-09%20194420.png?raw=true
+<img width="1313" height="525" alt="image" src="https://github.com/user-attachments/assets/00f68f74-026e-4a75-9c9a-b8cf53c9fd12" />
 
 
 ## About Me 
