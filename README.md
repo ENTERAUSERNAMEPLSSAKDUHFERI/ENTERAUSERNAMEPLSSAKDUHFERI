@@ -1,17 +1,14 @@
-# Hello, I'm Sarah!
 
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"
-
+<h1 align="center"> Hello, I'm Sarah!</h1>
+<h2 align="center"> Exploring the dark to protect the light | Building my path in Cybersecurity </h2>
+<img align="center" alt="Coding" width="2000" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">
 
 ## About Me 
 
-I'm passionate about **Cybersecurity**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
 - 🌱 Currently learning: **Endpoint Security, Python, Network Security, Operating Systems, Penetration testing, Frameworks, and a lot more**
 - 🔭 Working on: **[My Phishing Link Tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)**
-- 🌍 Languages: **[C++ and Java]**
 - 📫 Find me on: **[LinkedIn](https://www.linkedin.com/in/sarah-modi-a1773b357/)**
-- ⚡ Fun fact: **[I was home schooled from 10th-12th grade, and now my university is online as well]**
+- ⚡ Fun fact: **[I was home schooled, and now my university is online as well :)]**
 
 ## My Skills 🧠
 
