@@ -8,7 +8,8 @@
 - 🌱 Currently learning: **Endpoint Security, Python, Network Security, Operating Systems, Penetration testing, Frameworks, and a lot more**
 - 🔭 Working on: **[My Phishing Link Tester](https://enterausernameplssakduhferi.github.io/roeh-link-tester/)**
 - 📫 Find me on: **[LinkedIn](https://www.linkedin.com/in/sarah-modi-a1773b357/)**
-- ⚡ Fun fact: **I was home schooled, and now my university is online as well :)**
+- 🌐 My Blog Posts:**[![Ro'eh](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://guardedbyroeh.blogspot.com/)**
+- ⚡ Fun fact: **I was home-schooled, and now my university is online as well :)**
 
 ## My Skills 🧠
 
@@ -21,6 +22,9 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-modi-a1773b357/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarahmodi) 
+[![Ro'eh](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://guardedbyroeh.blogspot.com/)
+
+
 
 
 # 📊 GitHub Stats
