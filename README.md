@@ -1,6 +1,6 @@
 # Hello, I'm Sarah!
 
-[https://github.com/user-attachments/assets/00f68f74-026e-4a75-9c9a-b8cf53c9fd12" ](https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif)
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif"
 
 
 ## About Me 
