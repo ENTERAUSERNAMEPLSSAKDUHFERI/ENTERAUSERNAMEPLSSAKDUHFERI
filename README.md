@@ -46,3 +46,19 @@
 # This is what I do apart from tech
 <img align="center" alt="Coding" width="2000" src="https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/ENTERAUSERNAMEPLSSAKDUHFERI/blob/main/Screenshot%202025-10-10%20144339.png?raw=true">
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SARAH-MODI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
