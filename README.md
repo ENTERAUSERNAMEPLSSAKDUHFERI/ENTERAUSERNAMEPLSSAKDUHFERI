@@ -18,5 +18,5 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
+![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ENTERAUSERNAMEPLSSAKDUHFERI&show_icons=true&theme=radical)
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/d9def59486c3c922ec22b54932f641684526b0ad8a574cf7b0f3d40ea177d7b5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f424a2d39772d4d5556434d41414141432f7469733130302d7361642e676966">
