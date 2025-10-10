@@ -42,3 +42,6 @@
 [![](https://visitcount.itsvg.in/api?id=ENTERAUSERNAMEPLSSAKDUHFERI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# This is what I do apart from tech
+[![Tum duniya ke noor](https://youtu.be/nsaAau8UUGI?si=RQhHlNIS3kalR9s2)
