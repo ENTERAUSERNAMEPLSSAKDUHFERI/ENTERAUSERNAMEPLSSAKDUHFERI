@@ -44,4 +44,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # This is what I do apart from tech
-[![Tum duniya ke noor](https://youtu.be/nsaAau8UUGI?si=RQhHlNIS3kalR9s2)
+<img align="center" alt="Coding" width="2000" src="https://github.com/ENTERAUSERNAMEPLSSAKDUHFERI/ENTERAUSERNAMEPLSSAKDUHFERI/blob/main/Screenshot%202025-10-10%20144339.png?raw=true">
+
