@@ -35,10 +35,10 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=ENTERAUSERNAMEPLSSAKDUHFERI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ENTERAUSERNAMEPLSSAKDUHFERI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ENTERAUSERNAMEPLSSAKDUHFERI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ENTERAUSERNAMEPLSSAKDUHFERI&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=SarahModi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SarahModi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahModi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarahModi&show_icons=true&theme=radical)
 
 
 
